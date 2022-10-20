@@ -1,0 +1,13 @@
+textarea {
+    min-height: 400px;
+}
+
+#emails-view > div {
+    border: 1px solid rgb(87, 86, 86);
+    padding: 4px;  
+}
+
+#reply {
+    background-color:rgb(191, 220, 247);
+    border: 1px solid rgb(191, 220, 247);
+}
