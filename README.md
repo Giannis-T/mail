@@ -19,17 +19,14 @@ The backend API is prebuilt, and I created the frontend Interface that handles t
 1. You should create a virtual environment, in which you will install Django with the following command:
 ```
 pip install Django
-
 ```
 2. Create a SQLite3 Database by writing :
 ```
 python manage.py migrate
-
 ```
 3. Run the application locally with:
 ```
 python manage.py runserver
-
 ```
 To view the application, enter to you browser's url input 
 ```
@@ -43,7 +40,6 @@ You can create an admin user account that gives you the admin interface, a very 
 To create such an account you need to write the command
 ```
 python manage.py createsuperuser
-
 ```
 fill in the inputs and you have successfuly created an admin account!
 
